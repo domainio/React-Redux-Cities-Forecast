@@ -1,14 +1,14 @@
-# ReactReduxForecast
+# ReactReduxCitiesForecast
 
-Cities forecast app sample using Google Maps & Sparklines
+Cities forecast app sample using React Google Maps & React Sparklines
 
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone
-	> cd ReduxSimpleStarter
+	> git clone https://github.com/domainio/ReactReduxCitiesForecast.git
+	> cd ReactReduxCitiesForecast
 	> npm install
 	> npm start
 ```
