@@ -13,7 +13,7 @@ Cities forecast app sample using React Google Maps & React Sparklines
 
 
 
-![alt tag](https://lh3.googleusercontent.com/lQXIvcPbeCaY9HK65ZeCEWuSOmhdBgxV6HsbyrCqCXXRkISN2BfZLgpsTI1wSNm8PduKj__f0TWg3tE=w1366-h642-rw)
+![alt tag](https://www.dropbox.com/s/wlcmng9umkjatge/cities-forecast-app.png?dl=0)
 
 
 ###Getting Started###
