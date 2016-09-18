@@ -12,6 +12,10 @@ Cities forecast app sample using React Google Maps & React Sparklines
 * __HTTP requests to 3rd-party RESTful API (using node.js axios)__
 
 
+
+![alt tag](https://lh3.googleusercontent.com/lQXIvcPbeCaY9HK65ZeCEWuSOmhdBgxV6HsbyrCqCXXRkISN2BfZLgpsTI1wSNm8PduKj__f0TWg3tE=w1366-h642-rw)
+
+
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
