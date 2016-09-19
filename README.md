@@ -10,7 +10,7 @@ Cities forecast app sample using React Google Maps & React Sparklines
 * __React SparklinesLine (UI charts)__
 * __React Google Maps API__
 * __HTTP requests to 3rd-party RESTful API (using node.js axios)__
-
+* __env: webpack, babel__
 
 
 ![alt tag](https://www.dropbox.com/s/wlcmng9umkjatge/cities-forecast-app.png?raw=1)
@@ -18,7 +18,7 @@ Cities forecast app sample using React Google Maps & React Sparklines
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the process with the following:
 
 ```
 	> git clone https://github.com/domainio/ReactReduxCitiesForecast.git
