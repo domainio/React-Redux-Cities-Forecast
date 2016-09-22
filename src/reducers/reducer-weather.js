@@ -1,9 +1,9 @@
-import { FETCH_WEATHER } from '../actions/index';
+import * as types from '../actions/action-types';
 
 export default function (state = [], action){
   console.log('Action received: ', action);
   switch (action.type) {
-    case FETCH_WEATHER:
+    case types.FETCH_WEATHER:
       return [ action.payload.data, ...state ]; // == state.concat([action.payload.data]);
   }
   return state;
